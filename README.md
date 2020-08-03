@@ -14,7 +14,7 @@ The goal of this project was to create a 3D printable, magnetic chess board. The
 <img src="Pictures/upside-down.jpg" width="250">
 
 <h2>Print Instructions</h2>
-The print is a little more complicated than usual. Here are some pointers on how to get it working with cura. Note that the chess boar is printed upside down, which means the surface to play on will be directly printed onto the print bed!
+The print is a little more complicated than usual. Here are some pointers on how to get it working with Cura. Note that the chess board is printed upside down, which means the surface to play on will be directly printed onto the print bed!
 Also, the files with the different steps are provided in a 2x2 configuration. This is much easier for testing without wasting lots of filament and time.
 
 * Buy magnets. You will need at least 96 magnets with the size 10mm x 10mm x 3mm.
