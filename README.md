@@ -5,10 +5,10 @@ The goal of this project was to create a 3D printable, magnetic chess board. The
 
 
 <h3>Rendering</h3>
-![Rendering](/Pictures/rendering.jpeg =250x)
+![](/Pictures/rendering.jpeg =250x)
 
 <h3>Actual Picture</h3>
-![Picture](/Pictures/photo.jpeg =250x)
+![](/Pictures/photo.jpeg =250x)
 
 <h3>Magnets in action</h3>
-![Picture](/Pictures/photo.jpeg =250x)
+![](/Pictures/photo.jpeg =250x)
